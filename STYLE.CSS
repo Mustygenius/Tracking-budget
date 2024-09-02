@@ -1,7 +1,7 @@
 body { font-family: Arial,
    sans-serif;
    margin: 0;
-   background-color:olivedrab;
+   background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
 }
 
 
@@ -44,10 +44,3 @@ h1, h2 { text-align: center; }
        border-radius: 4px; 
        cursor: pointer; }
 
-#rainbow-div {
-  width: 200px;
-  height: 20px;
-  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-}
-   
-   
